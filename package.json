@@ -1,0 +1,26 @@
+{
+  "name": "miranda",
+  "version": "0.0.1",
+  "description": "A bunch of common necessities aross Ai Akiraseki's Projects.",
+  "main": "lib/Miranda.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ai-akiraseki/miranda.git"
+  },
+  "keywords": [
+    "miranda",
+    "common"
+  ],
+  "author": "Ai Akiraseki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ai-akiraseki/miranda/issues"
+  },
+  "homepage": "https://github.com/ai-akiraseki/miranda#readme"
+}
